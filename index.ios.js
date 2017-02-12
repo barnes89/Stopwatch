@@ -20,6 +20,7 @@ var StopWatch = React.createClass({
     }
   },
   //yolo
+  //suuup
   render: function() {
     return <View style={styles.container}>
 
