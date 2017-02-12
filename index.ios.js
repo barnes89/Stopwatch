@@ -21,6 +21,7 @@ var StopWatch = React.createClass({
   },
   //yolo
   //suuup
+  //banch test
   render: function() {
     return <View style={styles.container}>
 
