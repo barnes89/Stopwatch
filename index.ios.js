@@ -19,6 +19,7 @@ var StopWatch = React.createClass({
       laps: []
     }
   },
+  //yolo
   render: function() {
     return <View style={styles.container}>
 
